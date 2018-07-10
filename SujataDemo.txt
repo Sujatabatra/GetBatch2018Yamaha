@@ -3,10 +3,11 @@ today is tuesday, and we are demonstrating GIT
 
 Start writing something just for the sake of typing.
 Participant Names
+(My name is rahul and I am specifying my EIN here)
 1. Kanishka Bajaj
 2. Shubham Gupta
 3. Swechchha Sinha
-4. Rahul Midha
+4. Rahul Midha, YM016
 5. Shuvam Prakash
 6. Vivek Uniyal
 7. Balraj Singh
