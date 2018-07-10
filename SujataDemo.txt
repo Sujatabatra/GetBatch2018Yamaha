@@ -1,2 +1,7 @@
 Hello Everyone, How are you?
 today is tuesday, and we are demonstrating GIT
+
+Start writing something just for the sake of typing.
+Participant Names
+1. Kanishka Bajaj
+2. Shubham Gupta
